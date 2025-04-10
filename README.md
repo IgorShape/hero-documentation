@@ -1,11 +1,11 @@
 # Documentation Contents
 
-**Hero**  
+### Hero
 *(description of app)*  
 *(keywords)*
 
-**Front-end**  
+### Front-end
 - [Forms](hero-docs/Front-end/Forms/Forms.md)
 
-**Back-end**  
+### Back-end
 *(To be added)*
