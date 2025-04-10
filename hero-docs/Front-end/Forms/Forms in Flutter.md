@@ -1,6 +1,6 @@
-created: 10.04.25
-updated: 10.04.25
-[source](https://docs.flutter.dev/cookbook/forms/validation)
+created: 10.04.25  
+updated: 10.04.25  
+[source](https://docs.flutter.dev/cookbook/forms/validation)  
 
 The Form [Widget](Widget) is a container for grouping and validating multiple form fields.
 A `GlobalKey` is needed to uniquely identify the form and to validate it later.
