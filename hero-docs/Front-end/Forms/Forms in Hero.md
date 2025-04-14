@@ -50,9 +50,9 @@ on<AttemptSignin>((event, emit) async {
 ```
 Typical states in Form Blocs 
 ```dart
-final class SigninFormInitial extends SigninFormState {}
+final class FormInitial extends FormState {}
 
-final class SigninFormProcessing extends SigninFormState {}
+final class FormProcessing extends FormState {}
 
 final class FormSuccess extends FormState {
 	// send whatever front end needs from success
