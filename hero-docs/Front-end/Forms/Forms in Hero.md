@@ -89,8 +89,8 @@ if (state is SigninFormProcessing) {
 return Form(
 	...
 ```
-Can also use a `BlocBuilder` to display error messages.
-Example display error when password is incorrect underneath the password form field:
+Can also use a `BlocBuilder` to display error messages from bloc logic.
+Example error message being displayed above submit button and below the last form field:
 ```dart
 CustomTextFormField(
   label: 'Password',
